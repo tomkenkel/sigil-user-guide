@@ -10,7 +10,7 @@
 
 <br/>
 
-1. __NO ARTISTIC/AESTHETIC CHANGES PLEASE!__ We're only interested in content updates and corrections, or updated screenshots that show new menus or new features. If you're hoping to "jazz things up" or redo the the style of the epub to reflect your personal style or formatting preferences, you're probably going to be disappointed. Pull Requests that include stylistic changes or "upgrades" will be declined (unless such work has been pre-approved of course).
+1. __NO ARTISTIC/AESTHETIC CHANGES PLEASE!__ We're only interested in content updates and corrections, or updated screenshots that show new menus or new features. If you're hoping to "jazz things up" or redo the style of the epub to reflect your personal style or formatting preferences, you're probably going to be disappointed. Pull Requests that include stylistic changes or "upgrades" will be declined (unless such work has been pre-approved of course).
 
 2. __Less is best__. Several smaller, tightly focused Pull Requests are always going to be preferred over ones that represent grand, sweeping changes to large swathes of the manual. We don't want to have to read the entire manual each and every time we're evaluating a new Pull Request. Neither would you.  Be considerate if you want to see your efforts incorporated.
 
